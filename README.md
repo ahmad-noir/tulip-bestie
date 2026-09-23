@@ -16,7 +16,7 @@ The project focuses on creating a memorable experience through thoughtful UI des
 
 ---
 
-🌸 Features
+## 🌸 Features
 
 - 🌷 Beautiful tulip-inspired visual design
 - ✨ Smooth animations and transitions
@@ -29,7 +29,7 @@ The project focuses on creating a memorable experience through thoughtful UI des
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Technology| Purpose
 ⚛️ React| User interface
@@ -43,7 +43,7 @@ Technology| Purpose
 
 ---
 
-📂 Project Structure
+## 📂 Project Structure
 
 tulip-bestie/
 ├── public/
@@ -72,7 +72,7 @@ tulip-bestie/
 
 ---
 
-🚀 Getting Started
+##🚀 Getting Started
 
 1. Clone the repository
 
@@ -96,7 +96,7 @@ http://localhost:5173
 
 ---
 
-🏗️ Build for Production
+## 🏗️ Build for Production
 
 Create an optimized production build:
 
@@ -108,13 +108,13 @@ pnpm run serve
 
 ---
 
-🌐 Live Demo
+## 🌐 Live Demo
 
 👉 "View Tulip Bestie Live" (https://ahmad-noir.github.io/tulip-bestie/)
 
 ---
 
-📱 Responsive Design
+## 📱 Responsive Design
 
 The website is designed to work across different screen sizes, including:
 
@@ -125,7 +125,7 @@ The website is designed to work across different screen sizes, including:
 
 ---
 
-📌 Project Status
+## 📌 Project Status
 
 🟢 Live
 
@@ -133,7 +133,7 @@ The project is deployed and publicly accessible through GitHub Pages.
 
 ---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Ahtesham Ahmad
 
@@ -141,7 +141,7 @@ GitHub: "@ahmad-noir" (https://github.com/ahmad-noir)
 
 ---
 
-⭐ Support
+## ⭐ Support
 
 If you like this project, consider giving the repository a ⭐ on GitHub.
 
