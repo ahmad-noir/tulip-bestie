@@ -4,7 +4,7 @@ import tailwindcss from "@tailwindcss/vite";
 import { defineConfig } from "vite";
 
 export default defineConfig({
-  base: "/",
+  base: "/tulip-bestie/",
   plugins: [
     react(),
     tailwindcss(),
