@@ -1,66 +1,68 @@
-🌷 Tulip Bestie
+## 🌷 Tulip Bestie
 
-«A creative interactive web experience built with React, TypeScript, Vite, and Tailwind CSS.»
+«A beautifully designed interactive web experience created with React, TypeScript, Vite, and Tailwind CSS.»
 
-🌐 Live Demo
+## <p align="center">
+  <a href="https://ahmad-noir.github.io/tulip-bestie/">
+    <strong>🌐 View Live Demo</strong>
+  </a>
+</p>---
 
-👉 "View Tulip Bestie Live" (https://ahmad-noir.github.io/tulip-bestie/)
+## ✨ About
 
-✨ About
+Tulip Bestie is a personal interactive web experience designed with a soft, elegant, and playful aesthetic.
 
-Tulip Bestie is a creative interactive web project designed to create a warm, memorable, and engaging digital experience.
+The project focuses on creating a memorable experience through thoughtful UI design, smooth interactions, animations, and a clean responsive layout.
 
-The project focuses on:
+---
 
-- 🎨 Clean and modern UI
-- 📱 Responsive design
-- ✨ Smooth interactions and animations
-- ⚛️ Modern React development
-- 🧩 Reusable components
-- ⚡ Fast and optimized development
+🌸 Features
 
-🚀 Features
-
-- 🌷 Interactive and expressive user interface
-- 📱 Fully responsive design
-- ⚡ Fast Vite-powered development
-- 🎨 Tailwind CSS styling
-- ⚛️ React + TypeScript
-- 🧩 Reusable UI components
+- 🌷 Beautiful tulip-inspired visual design
 - ✨ Smooth animations and transitions
-- ♿ Accessible UI primitives
-- 📦 Production-ready build setup
-- 🚀 Automated GitHub Pages deployment
+- 💫 Interactive UI elements
+- 📱 Fully responsive design
+- 🎨 Clean and modern interface
+- ⚡ Fast Vite-powered development
+- 💻 Component-based React architecture
+- 🌐 Deployed with GitHub Pages
+
+---
 
 🛠️ Tech Stack
 
 Technology| Purpose
 ⚛️ React| User interface
-🔷 TypeScript| Type-safe development
-⚡ Vite| Development and build tooling
-🎨 Tailwind CSS| Styling and responsive design
-✨ Framer Motion| Animations and interactions
-🧩 Radix UI| Accessible UI components
-💡 Lucide React| Interface icons
-📝 React Hook Form| Form management
-🛡️ Zod| Schema validation
+📘 TypeScript| Type-safe development
+⚡ Vite| Development & production build
+🎨 Tailwind CSS| Styling
+🎬 Framer Motion| Animations
+🎯 Lucide React| Icons
+🧩 Radix UI| UI components
+🚀 GitHub Pages| Deployment
 
-📁 Project Structure
+---
+
+📂 Project Structure
 
 tulip-bestie/
-├── .github/
-│   └── workflows/
-│       └── deploy.yml
 ├── public/
+│   ├── favicon.svg
+│   └── robots.txt
+│
 ├── src/
 │   ├── components/
-│   │   └── ui/
+│   │   ├── ui/
+│   │   └── error-boundary.tsx
+│   │
 │   ├── hooks/
 │   ├── lib/
 │   ├── pages/
 │   ├── App.tsx
 │   ├── index.css
 │   └── main.tsx
+│
+├── .gitignore
 ├── components.json
 ├── index.html
 ├── package.json
@@ -68,31 +70,23 @@ tulip-bestie/
 ├── vite.config.ts
 └── README.md
 
-💻 Getting Started
+---
 
-📋 Prerequisites
+🚀 Getting Started
 
-Make sure you have the following installed:
-
-- 🟢 Node.js
-- 📦 pnpm
-- 🔧 Git
-
-📥 Installation
-
-Clone the repository:
+1. Clone the repository
 
 git clone https://github.com/ahmad-noir/tulip-bestie.git
 
-Navigate to the project:
+2. Navigate into the project
 
 cd tulip-bestie
 
-Install dependencies:
+3. Install dependencies
 
 pnpm install
 
-Start the development server:
+4. Start the development server
 
 pnpm dev
 
@@ -100,63 +94,44 @@ The application will be available at:
 
 http://localhost:5173
 
-📦 Available Scripts
+---
 
-⚡ Development
+🏗️ Build for Production
 
-pnpm dev
-
-Starts the Vite development server.
-
-🏗️ Production Build
+Create an optimized production build:
 
 pnpm run build
 
-Creates an optimized production build.
-
-🔍 Preview
+To preview the production build:
 
 pnpm run serve
 
-Runs the production build locally.
+---
 
-🧪 Type Checking
+🌐 Live Demo
 
-pnpm run typecheck
+👉 "View Tulip Bestie Live" (https://ahmad-noir.github.io/tulip-bestie/)
 
-Runs TypeScript type checking without generating files.
-
-🚀 Deployment
-
-Tulip Bestie is deployed using GitHub Pages and GitHub Actions.
-
-Every push to the "main" branch can trigger an automated build and deployment.
-
-🔗 Live Website:
-https://ahmad-noir.github.io/tulip-bestie/
-
-🎯 Project Goals
-
-This project explores:
-
-- 💡 Creative frontend development
-- 🎨 Modern UI/UX design
-- 📱 Responsive web development
-- ⚛️ Component-based architecture
-- 🔷 Modern React + TypeScript
-- ✨ Interactive web experiences
-- 🧩 Reusable UI systems
-- 🚀 Automated deployment
-- 🧹 Clean and maintainable code
+---
 
 📱 Responsive Design
 
-Designed to provide a smooth experience across:
+The website is designed to work across different screen sizes, including:
 
 - 📱 Mobile
-- 📲 Tablets
-- 💻 Laptops
+- 📲 Tablet
+- 💻 Laptop
 - 🖥️ Desktop
+
+---
+
+📌 Project Status
+
+🟢 Live
+
+The project is deployed and publicly accessible through GitHub Pages.
+
+---
 
 👨‍💻 Author
 
@@ -164,12 +139,14 @@ Ahtesham Ahmad
 
 GitHub: "@ahmad-noir" (https://github.com/ahmad-noir)
 
+---
+
 ⭐ Support
 
-If you like Tulip Bestie, consider giving the repository a ⭐ on GitHub.
+If you like this project, consider giving the repository a ⭐ on GitHub.
 
 ---
 
 <p align="center">
-  Made with ❤️ using React, TypeScript & Vite
+  Made with ❤️ and 🌷
 </p>
