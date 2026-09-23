@@ -24,3 +24,11 @@ main.tsx ├── components.json ├── index.html ├── package.json �
 tsconfig.json ├── vite.config.ts
 └── README.md
 
+## 👨‍💻 Author
+
+**Ahtesham Ahmad**
+
+GitHub: [@ahmad-noir](https://github.com/ahmad-noir)
+---
+
+⭐ If you like the project, consider giving the repository a star.
