@@ -76,7 +76,9 @@ tulip-bestie/
 
 1. Clone the repository
 
+''' bash 
 git clone https://github.com/ahmad-noir/tulip-bestie.git
+'''
 
 2. Navigate into the project
 
