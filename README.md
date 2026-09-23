@@ -1,16 +1,16 @@
-##🌷 Tulip Bestie
+🌷 Tulip Bestie
 
 «A creative interactive web experience built with React, TypeScript, Vite, and Tailwind CSS.»
 
-##🌐 Live Demo
+🌐 Live Demo
 
 👉 "View Tulip Bestie Live" (https://ahmad-noir.github.io/tulip-bestie/)
 
-##✨ About
+✨ About
 
 Tulip Bestie is a creative interactive web project designed to create a warm, memorable, and engaging digital experience.
 
-##The project focuses on:
+The project focuses on:
 
 - 🎨 Clean and modern UI
 - 📱 Responsive design
@@ -19,7 +19,7 @@ Tulip Bestie is a creative interactive web project designed to create a warm, me
 - 🧩 Reusable components
 - ⚡ Fast and optimized development
 
-##🚀 Features
+🚀 Features
 
 - 🌷 Interactive and expressive user interface
 - 📱 Fully responsive design
@@ -32,7 +32,7 @@ Tulip Bestie is a creative interactive web project designed to create a warm, me
 - 📦 Production-ready build setup
 - 🚀 Automated GitHub Pages deployment
 
-##🛠️ Tech Stack
+🛠️ Tech Stack
 
 Technology| Purpose
 ⚛️ React| User interface
@@ -45,7 +45,7 @@ Technology| Purpose
 📝 React Hook Form| Form management
 🛡️ Zod| Schema validation
 
-##📁 Project Structure
+📁 Project Structure
 
 tulip-bestie/
 ├── .github/
@@ -68,7 +68,7 @@ tulip-bestie/
 ├── vite.config.ts
 └── README.md
 
-##💻 Getting Started
+💻 Getting Started
 
 📋 Prerequisites
 
@@ -78,7 +78,7 @@ Make sure you have the following installed:
 - 📦 pnpm
 - 🔧 Git
 
-##📥 Installation
+📥 Installation
 
 Clone the repository:
 
@@ -132,10 +132,10 @@ Tulip Bestie is deployed using GitHub Pages and GitHub Actions.
 
 Every push to the "main" branch can trigger an automated build and deployment.
 
-##🔗 Live Website:
+🔗 Live Website:
 https://ahmad-noir.github.io/tulip-bestie/
 
-##🎯 Project Goals
+🎯 Project Goals
 
 This project explores:
 
@@ -149,7 +149,7 @@ This project explores:
 - 🚀 Automated deployment
 - 🧹 Clean and maintainable code
 
-##📱 Responsive Design
+📱 Responsive Design
 
 Designed to provide a smooth experience across:
 
@@ -158,13 +158,13 @@ Designed to provide a smooth experience across:
 - 💻 Laptops
 - 🖥️ Desktop
 
-##👨‍💻 Author
+👨‍💻 Author
 
 Ahtesham Ahmad
 
 GitHub: "@ahmad-noir" (https://github.com/ahmad-noir)
 
-##⭐ Support
+⭐ Support
 
 If you like Tulip Bestie, consider giving the repository a ⭐ on GitHub.
 
