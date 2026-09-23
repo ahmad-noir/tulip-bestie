@@ -44,7 +44,7 @@ Technology| Purpose
 ---
 
 ## 📂 Project Structure
-|
+```text
 tulip-bestie/
 ├── public/
 │   ├── favicon.svg
@@ -69,7 +69,7 @@ tulip-bestie/
 ├── tsconfig.json
 ├── vite.config.ts
 └── README.md
-
+```
 ---
 
 ## 🚀 Getting Started
