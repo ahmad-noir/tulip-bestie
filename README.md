@@ -44,7 +44,7 @@ Technology| Purpose
 ---
 
 ## 📂 Project Structure
-
+|
 tulip-bestie/
 ├── public/
 │   ├── favicon.svg
