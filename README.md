@@ -119,7 +119,7 @@ pnpm run serve
 
 ## 🌐 Live Demo
 
-👉 "View Tulip Bestie Live" (https://ahmad-noir.github.io/tulip-bestie/)
+👉 ["View Tulip Bestie Live"] (https://ahmad-noir.github.io/tulip-bestie/)
 
 ---
 
