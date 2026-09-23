@@ -1,6 +1,9 @@
 # 🌷 Tulip Bestie
 > A beautifully designed interactive web experience built with React, 
 > TypeScript, Vite, and Tailwind CSS.
+## 🌐 Live Demo
+
+👉 [View Tulip Bestie Live](https://ahmad-noir.github.io/tulip-bestie/)
 ## ✨ Overview
 **Tulip Bestie** is a creative interactive web project designed to create a 
 warm and memorable digital experience. The project focuses on clean UI, 
