@@ -107,12 +107,14 @@ http://localhost:5173
 
 Create an optimized production build:
 
+```bash
 pnpm run build
-
+```
 To preview the production build:
 
+```bash
 pnpm run serve
-
+```
 ---
 
 ## 🌐 Live Demo
