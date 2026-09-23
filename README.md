@@ -144,9 +144,9 @@ The project is deployed and publicly accessible through GitHub Pages.
 
 ## 👨‍💻 Author
 
-Ahtesham Ahmad
+**Ahtesham Ahmad**
 
-GitHub: "@ahmad-noir" (https://github.com/ahmad-noir)
+GitHub: [@ahmad-noir](https://github.com/ahmad-noir)
 
 ---
 
