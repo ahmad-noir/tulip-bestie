@@ -1,6 +1,6 @@
 ## 🌷 Tulip Bestie
 
-A beautifully designed interactive web experience created with React, TypeScript, Vite, and Tailwind CSS.
+>A beautifully designed interactive web experience created with React, TypeScript, Vite, and Tailwind CSS.
 
 ## <p align="center">
   <a href="https://ahmad-noir.github.io/tulip-bestie/">
