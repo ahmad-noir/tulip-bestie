@@ -76,26 +76,31 @@ tulip-bestie/
 
 1. Clone the repository
 
-''' bash 
+```bash 
 git clone https://github.com/ahmad-noir/tulip-bestie.git
-'''
+```
 
 2. Navigate into the project
 
+```bash
 cd tulip-bestie
+```
 
 3. Install dependencies
 
+```bash
 pnpm install
-
+```
 4. Start the development server
 
+```bash
 pnpm dev
-
+```
 The application will be available at:
 
+```bash
 http://localhost:5173
-
+```
 ---
 
 ## 🏗️ Build for Production
